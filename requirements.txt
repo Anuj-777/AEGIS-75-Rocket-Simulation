@@ -1,0 +1,5 @@
+rocketpy
+numpy
+matplotlib
+pandas
+scipy
