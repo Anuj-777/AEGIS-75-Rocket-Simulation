@@ -173,7 +173,8 @@ Through this project, the following concepts were explored:
 
 # 👨‍💻 Author
 **Anuj Mangaj**
-Aerospace Engineering Student | IIT KHARAGPUE
+
+Aerospace Engineering Student | IIT KHARAGPUR
 
 **Interests**
 - Flight Dynamics
