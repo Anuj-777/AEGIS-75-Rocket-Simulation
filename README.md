@@ -107,7 +107,7 @@ The following analyses were performed:
 ![Elevation](images/aerodynamic_forces.png)
 
 ## Energy Analysis
-![Elevation](images/stability.png)
+![Elevation](images/energy.png)
 
 # 📂 Repository Structure
 
